@@ -29,6 +29,7 @@ Estudante de Engenharia de Software focado em Infraestrutura, Redes e Desenvolvi
 - 🔹 **Cibersegurança & Kali Linux** — Juliana Armond (Udemy) *(Iniciado recentemente)*
 - 🔹 **Java POO & Algoritmos** — Curso em Vídeo
 - 🔹 **HTML5 e CSS3** — Curso em Vídeo
+- 🔹 **JavaScript** — Curso em Vídeo
 
 ---
 
