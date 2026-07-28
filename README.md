@@ -32,14 +32,6 @@ Estudante de Engenharia de Software focado em Infraestrutura, Redes e Desenvolvi
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiggoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-</div>
-
----
-
 ### 📫 Contato
 - 📧 **E-mail:** [thiagobalbino1456@gmail.com](mailto:thiagobalbino1456@gmail.com)
 - 📷 **Instagram:** [@farias__th](https://instagram.com/farias__th)
