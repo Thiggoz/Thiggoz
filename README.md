@@ -5,7 +5,7 @@ Estudante de Engenharia de Software focado em Infraestrutura, Redes e Desenvolvi
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Cursando o 2º período de **Engenharia de Software** na UNIPAR (Campus Francisco Beltrão).
+- 🎓 Cursando o 2º período de **Engenharia de Software** na UNIPAR.
 - 📍 Paraná, Brasil.
 - 💼 Experiência de 3 anos com atendimento ao cliente e suporte administrativo.
 - 🎯 Buscando oportunidade de estágio para aplicar conhecimentos teóricos na prática e evoluir na área de TI.
